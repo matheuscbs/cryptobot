@@ -1,5 +1,6 @@
 from ethereumForecast import EthereumForecast
 
+
 class EthereumBuySellRobot:
     def __init__(self):
         self.eth_forecast = EthereumForecast()
