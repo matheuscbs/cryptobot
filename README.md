@@ -8,3 +8,9 @@ prophet = "^1.1.2"
 [pycodestyle]
 max_line_length = 120
 ignore = "E203, E266, E501, W503, F403, F401"
+
+Para rodar o programa é necessário utilizar o ambiente
+conda activate crypto
+
+depois executar usando o poetry
+poetry run python main.py
